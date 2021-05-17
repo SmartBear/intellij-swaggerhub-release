@@ -17,4 +17,4 @@ Please search existing issues before opening a new one.
 * [SwaggerHub documentation](https://app.swaggerhub.com/help/index): Learn more about SwaggerHub
 * [OpenAPI syntax guide](https://swagger.io/docs/specification/basic-structure/): Learn how to write OpenAPI definitions
 
-If you need help with SwaggerHub itself (not the VS Code extension), [contact Support](https://support.smartbear.com/message?product=SwaggerHub).
+If you need help with SwaggerHub itself (not the Intellij extension), [contact Support](https://support.smartbear.com/message?product=SwaggerHub).
