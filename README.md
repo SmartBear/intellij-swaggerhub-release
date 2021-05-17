@@ -37,6 +37,9 @@ Clicking the "Add First Organization" you will see the below modal
 * *Api Key:* Specify your SwaggerHub API key found at https://app.swaggerhub.com/settings/apiKey or at http(s)://YOUR_SERVER/settings/apiKey if you use SwaggerHub On-Premise.
 * *User's organizations:* Add a list of SwaggerHub organizations that you want to access
 
+## Minimum IntelliJ version requirement
+2020.3
+
 ## Resources
 * [SwaggerHub documentation](https://app.swaggerhub.com/help/index): Learn more about SwaggerHub
 * [OpenAPI syntax guide](https://swagger.io/docs/specification/basic-structure/): Learn how to write OpenAPI definitions
