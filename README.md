@@ -12,6 +12,8 @@ In this repository, you can:
 
 Please search existing issues before opening a new one.
 
+## Minimum IntelliJ version requirement - 2020.3
+
 ## Plugin Features
 * View and navigate definitions from your SwaggerHub organizations.
 * Edit and save definitions to SwaggerHub.
@@ -36,9 +38,6 @@ Clicking the "Add First Organization" you will see the below modal
 * *On-Prem address:* If you use SwaggerHub On-Premise, change the value to http(s)://YOUR_SERVER/v1. SwaggerHub SaaS users should leave the default value, https://api.swaggerhub.com.
 * *Api Key:* Specify your SwaggerHub API key found at https://app.swaggerhub.com/settings/apiKey or at http(s)://YOUR_SERVER/settings/apiKey if you use SwaggerHub On-Premise.
 * *User's organizations:* Add a list of SwaggerHub organizations that you want to access
-
-## Minimum IntelliJ version requirement
-2020.3
 
 ## Resources
 * [SwaggerHub documentation](https://app.swaggerhub.com/help/index): Learn more about SwaggerHub
